@@ -1,6 +1,6 @@
 # cowsay-files
 Additional files for cowsay
 
-![brrpt](cowfart.png)
+![brrpt](cowfartbw.png)
 
 * cowfart.cow - works best with 'cowthink' 
